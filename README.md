@@ -15,7 +15,6 @@ also adding new calculated columns then finally process the data into csv out fo
 
 #Powerbi Dashboard
 
-![image](https://github.com/user-attachments/assets/86b2a381-babd-4863-b8c6-34806b3f4513)
 
 This Power BI dashboard showcases an in-depth analysis of T20 cricket players based on their real performance data.Using various filters and visual tools, 
 we evaluated players on key batting metrics like strike rate, batting average, boundary percentage, and balls faced.We applied role-based filters to divide 
@@ -23,15 +22,15 @@ players into categories such as Openers, Middle Overs, Lower Order Finishers, Al
 and visual comparisons, we selected the best-performing players for the Final Team.
 
 # Openers – Selection Based on:
-Batting Average
+Batting Average - Average Runs Scored in an innings - More than 30 atleast
 
-Batting Position
+Batting Position - order in which batters played - atleast more than 4
 
-Boundary %
+Boundary % - % of Runs Scored in boundaries - atleast more thand 50
 
-Strike Rate
+Strike Rate - No of Runs Scored Per 100 balls - atleast more than 140
 
-Total Innings Batted
+Total Innings Batted - Total inning batted - more than 3
 
 👉 We identified openers who consistently provide explosive starts and anchor the innings. Players like Jos Buttler and Alex Hales stood out with high averages and boundary percentages.
 
@@ -93,6 +92,6 @@ Bowling Strike Rate
 # Final Team
 The final team was selected after analyzing each player’s performance based on their role-specific KPIs. 
 This team combines solid openers, stable middle-order players, aggressive finishers, dependable all-rounders, and economical wicket-taking bowlers.
-![image](https://github.com/user-attachments/assets/46bd60bd-97c5-49f0-b42b-18811993c1e4)
+
 
  
