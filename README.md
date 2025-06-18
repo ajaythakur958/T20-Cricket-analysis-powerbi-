@@ -21,7 +21,6 @@ Using Python and Pandas in Jupyter Notebook:
 - Converted raw JSON data to Pandas DataFrames
 - Handled null values and special characters
 - Renamed columns to meaningful names
-- Created calculated fields (e.g., Boundary %, Bowling Strike Rate)
 - Exported cleaned data to CSV for use in Power BI
 
 ---
